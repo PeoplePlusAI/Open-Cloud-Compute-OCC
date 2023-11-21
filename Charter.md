@@ -25,8 +25,8 @@ Engage with this paper with an open mind, welcoming imaginative exploration over
 
 # Open Questions 
 ### [Discussions tab can be used to answer these questions]
-<p> Question 1: What do you like out of this proposal? An what do you wish to see?
+<p> Question 1: What do you like out of this proposal? And what do you wish to see?
 <p> Question 2: What efforts can we undertake from a market-maker and policy perspective to accelerate and pilot this program? 
-<p> What are the concrete steps that we can to approach this globally? From the get go, how do we make this global initiative? Who are the global partners we can collaborate with?
+<p> Question 3: What are the concrete steps that we can to approach this globally? From the get go, how do we make this global initiative? Who are the global partners we can collaborate with?
   
 </p>
