@@ -1,10 +1,10 @@
 # Contributors
-> Pramod Varma (EkStep)
-> Santashil Palchaudhuri
-> Tanuj Bhojwani (People+AI)
-> Tanvi Lall (People+AI)
+<br> Pramod Varma (EkStep)
+<br> Santashil Palchaudhuri
+<br> Tanuj Bhojwani (People+AI)
+<br> Tanvi Lall (People+AI)
 
 # Supporters
-> Srinivas Varadarajan (Vigyan Labs)
-> Sujith Nair (FIDE)
+<br> Srinivas Varadarajan (Vigyan Labs)
+<br> Sujith Nair (FIDE)
 
