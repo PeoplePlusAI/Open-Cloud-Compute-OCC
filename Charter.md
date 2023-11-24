@@ -12,7 +12,7 @@ Engage with this paper with an open mind, welcoming imaginative exploration over
 
 
 # Next Commitments
-<p> The Concept Paper [Working Draft](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) will be published on the People+AI website in the first week of December 2023. The paper will be presented and discussed at Global Technology Summit in New Delhi on December 5th in a closed workshop.
+<p> The [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) will be published on the People+AI website in the first week of December 2023. The paper will be presented and discussed at Global Technology Summit in New Delhi on December 5th in a closed workshop.
 <p> As we imagine this open network, we need expertise and skill-sets that contribute to the following calls-to-action. Please refer to the Open Questions section.
 
 # Problem Statement/ Hypothesis
