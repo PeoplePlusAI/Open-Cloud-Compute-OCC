@@ -1,5 +1,5 @@
 # Open-Cloud-Compute-OCC
-![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2f98c665-84ab-4d22-88f0-0bade5eb830c)
+![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2cb631b0-b490-4d8d-a524-7634f953441a)
 
 ## Anchor for this Program 
 
