@@ -36,7 +36,7 @@ We are looking for enthusiastic volunteers who can own pieces of this design puz
 
 ## Problem Statement/ Hypothesis
 
-Our hypothesis is three fold:
+Our hypothesis is two fold:
 
 1. There is a need for a network, where consumers can discover heterogeneous compute providers, allowing provisioning and usage via standards-based interfaces, thereby democratising access to cloud computing infrastructure.
 2. There is a need for a financial incentive structure built around encouraging new people to (1) come invest in this compute and (2) to use the compute.
