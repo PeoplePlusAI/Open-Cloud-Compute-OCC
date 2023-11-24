@@ -1,3 +1,7 @@
+[![GitHub watchers](https://img.shields.io/github/watchers/PeoplePlusAI/Open-Cloud-Compute-OCC.svg?style=social&label=Watch)](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC)
+[![GitHub stars](https://img.shields.io/github/stars/PeoplePlusAI/Open-Cloud-Compute-OCC.svg?style=social&label=Star)](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC)
+
+
 # Open-Cloud-Compute-OCC
 ![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2cb631b0-b490-4d8d-a524-7634f953441a)
 
