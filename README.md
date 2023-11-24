@@ -3,11 +3,14 @@
 
 
 # Open-Cloud-Compute-OCC
-![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2cb631b0-b490-4d8d-a524-7634f953441a)
+
+An early draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself.
+
+![OCC-Adarsh](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/4f5021fe-b233-4281-ba77-bfacd001d8b3)
 
 ## Anchor for this Program 
 
-Tanvi Lall [tanvi@peopleplus.ai], 
+Tanvi Lall [tanvi@peopleplus.ai]
 
 Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
@@ -20,6 +23,7 @@ Scaling compute requires capital and specialised knowledge. Thankfully, due to t
 
 Engage with this paper with an open mind, welcoming imaginative exploration over a critical evaluation stance. Likewise, take note of similar decentralised trends emerging in GPU.net and Salad.com. This paper is dedicated to supporting private innovation, particularly benefiting micro and smaller players. While government support is acknowledged, the primary focus is on nurturing a dynamic private sector environment, and discussing the essentials for their success - policy support, technology and infrastructure support, and financial tools among others.
 
+![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2cb631b0-b490-4d8d-a524-7634f953441a)
 
 ## Next Commitments
 
@@ -34,10 +38,8 @@ We are looking for enthusiastic volunteers who can own pieces of this design puz
 
 Our hypothesis is three fold:
 
-1. There is a need for a network where compute providers will be discoverable by customers.
-2. There is a need for a unified interface where compute providers and users can interact with each other, that allows for pricing mechanisms, and allows provision and selling of computing infrastructure.
-3. There is a need for a financial incentive structure built around encouraging new people to (1) come invest in this compute and (2) to use the compute.
-
+1. There is a need for a network, where consumers can discover heterogeneous compute providers, allowing provisioning and usage via standards-based interfaces, thereby democratising access to cloud computing infrastructure.
+2. There is a need for a financial incentive structure built around encouraging new people to (1) come invest in this compute and (2) to use the compute.
 
 ## We would love your feedback and suggestions, use [Discussions](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/discussions) 
 
