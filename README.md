@@ -7,7 +7,9 @@
 
 ## Anchor for this Program 
 
-Tanvi Lall [tanvi@peopleplus.ai]
+Tanvi Lall [tanvi@peopleplus.ai], 
+
+Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
 ## Collective Hope/ Dream
 We live in a world of increasing compute demand. The global cloud compute market is estimated at $500 billion and will be $1.5 trillion by 2030. Currently, much of the compute needs for businesses and startups are met by a handful of large cloud providers. Many fields and applications require significant computing power including AI, scientific research, finance among others and the need for expanded capacity is only growing. The objective of this paper is to brainstorm the creation of an open and decentralised computing network and take a DPI approach to unlocking access to compute-at-scale. 
@@ -23,7 +25,10 @@ Engage with this paper with an open mind, welcoming imaginative exploration over
 
 The [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) will be published on the People+AI website in the first week of December 2023. The paper will be presented and discussed at Global Technology Summit in New Delhi on December 5th in a workshop.
 
-As we imagine this open network, we need expertise and skill-sets that contribute to the following calls-to-action. Please refer to the Open Questions section.
+We are looking for enthusiastic volunteers who can own pieces of this design puzzle. Please reach out to tanvi@peopleplus.ai if you have expertise and/or interest in:
+1. Designing the technical architecture
+2. Defining policy initiatives to enable this network
+3. Economic viability and financial instruments that could infuse capital into this
 
 ## Problem Statement/ Hypothesis
 
