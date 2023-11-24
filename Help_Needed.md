@@ -1,2 +1,5 @@
 # Open Tasks
-> A list of help that the group is requesting from the community. This can include anything from requests for introductions, references, volunteer tasks etc. Make it easy for the [P+ai] community members to pick up tasks and contribute to the group.
+We are looking for enthusiastic volunteers who can own pieces of this design puzzle. Please reach out to tanvi@peopleplus.ai if you have expertise and/or interest in:
+1. Designing the technical architecture
+2. Defining policy initiatives to enable this network
+3. Economic viability and financial instruments that could infuse capital into this
