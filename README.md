@@ -34,10 +34,9 @@ Our hypothesis is three fold:
 3. There is a need for a financial incentive structure built around encouraging new people to (1) come invest in this compute and (2) to use the compute.
 
 
-## Open Questions 
-### [Discussions tab can be used to answer these questions]
+## We would love your feedback and suggestions, use [Discussions](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/discussions) 
 
-Question 1: What do you like out of this proposal? And what do you wish to see?
+Question 1: What do you like out of this proposal? And what do you wish to see? 
 
 Question 2: What efforts can we undertake from a market-maker and policy perspective to accelerate and pilot this program? 
 
