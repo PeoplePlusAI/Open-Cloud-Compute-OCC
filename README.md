@@ -1,4 +1,5 @@
 # Open-Cloud-Compute-OCC
+![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2f98c665-84ab-4d22-88f0-0bade5eb830c)
 
 ## Anchor for this Program 
 <p> Tanvi Lall [tanvi@peopleplus.ai]
