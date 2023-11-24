@@ -2,7 +2,8 @@
 ![open-and-decentralised-computing-network-upscaled](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/2f98c665-84ab-4d22-88f0-0bade5eb830c)
 
 ## Anchor for this Program 
-<p> Tanvi Lall [tanvi@peopleplus.ai]
+
+Tanvi Lall [tanvi@peopleplus.ai]
 
 ## Collective Hope/ Dream
 We live in a world of increasing compute demand. The global cloud compute market is estimated at $500 billion and will be $1.5 trillion by 2030. Currently, much of the compute needs for businesses and startups are met by a handful of large cloud providers. Many fields and applications require significant computing power including AI, scientific research, finance among others and the need for expanded capacity is only growing. The objective of this paper is to brainstorm the creation of an open and decentralised computing network and take a DPI approach to unlocking access to compute-at-scale. 
@@ -21,7 +22,8 @@ The [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QG
 As we imagine this open network, we need expertise and skill-sets that contribute to the following calls-to-action. Please refer to the Open Questions section.
 
 ## Problem Statement/ Hypothesis
-<p> Our hypothesis is three fold:
+
+Our hypothesis is three fold:
 
 1. There is a need for a network where compute providers will be discoverable by customers.
 2. There is a need for a unified interface where compute providers and users can interact with each other, that allows for pricing mechanisms, and allows provision and selling of computing infrastructure.
@@ -30,8 +32,10 @@ As we imagine this open network, we need expertise and skill-sets that contribut
 
 ## Open Questions 
 ### [Discussions tab can be used to answer these questions]
-<p> Question 1: What do you like out of this proposal? And what do you wish to see?
-<p> Question 2: What efforts can we undertake from a market-maker and policy perspective to accelerate and pilot this program? 
-<p> Question 3: What are the concrete steps that we can to approach this globally? From the get go, how do we make this global initiative? Who are the global partners we can collaborate with?
+
+Question 1: What do you like out of this proposal? And what do you wish to see?
+
+Question 2: What efforts can we undertake from a market-maker and policy perspective to accelerate and pilot this program? 
+
+Question 3: What are the concrete steps that we can to approach this globally? From the get go, how do we make this global initiative? Who are the global partners we can collaborate with?
   
-</p>
