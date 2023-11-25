@@ -12,6 +12,8 @@ An early draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8
 
 Tanvi Lall [tanvi@peopleplus.ai]
 
+Team: Dr. Pramod Varma, Dr. Santashil Palchaudhuri, Tanuj Bhojwani
+
 Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
 ## Collective Hope/ Dream
