@@ -6,7 +6,7 @@
 
 An early draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself.
 
-If you want to join the initiative, please fill out this [form](https://tally.so/r/nrokA2)
+If you want to join the initiative, please fill out this [form](https://tally.so/r/nrokA2).
 
 ![OCC-Adarsh](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/4f5021fe-b233-4281-ba77-bfacd001d8b3)
 
