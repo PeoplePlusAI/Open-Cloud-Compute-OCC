@@ -31,12 +31,9 @@ Engage with this paper with an open mind, welcoming imaginative exploration over
 
 ## Next Commitments
 
-The [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) will be published on the People+AI website in the first week of December 2023. The paper will be presented and discussed at Global Technology Summit in New Delhi on December 5th in a workshop.
-
-We are looking for enthusiastic volunteers who can own pieces of this design puzzle. Please reach out to tanvi@peopleplus.ai if you have expertise and/or interest in:
-1. Designing the technical architecture
-2. Defining policy initiatives to enable this network
-3. Economic viability and financial instruments that could infuse capital into this
+We are looking for enthusiastic volunteers who can own pieces of this design puzzle. Please reach out to tanvi@peopleplus.ai if you have expertise and/or interest to:
+1. Establish a strong business case for an OCC network: (a) Understand pain points that existing data centre providers and software service providers of this stack face. (b) Identify use cases and applications that could be early adopters of this network. (c) Identify incentive schemes that lower the barrier for providers and customers to join this network.
+2. Design a technical architecture that gives providers and customers a positive NPS experience.
 
 ## Problem Statement/ Hypothesis
 
