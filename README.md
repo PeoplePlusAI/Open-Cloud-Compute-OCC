@@ -4,7 +4,7 @@
 
 # Open-Cloud-Compute-OCC
 
-An early draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself.
+An early draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself. This [presentation](https://docs.google.com/presentation/d/1F_PxNP_i9zBYRaAdZDgWiNwVw2ZK1PMgSZGYHsiIvcA/edit?usp=sharing) provides an overview of the initiative.
 
 If you want to join the initiative, please fill out this [form](https://tally.so/r/nrokA2).
 
