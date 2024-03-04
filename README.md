@@ -4,9 +4,7 @@
 
 # Open-Cloud-Compute-OCC
 
-An open network for compute infrastructure can help meet the growing demand for compute, while keeping markets competitive
-
-A draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself. This [presentation](https://docs.google.com/presentation/d/1F_PxNP_i9zBYRaAdZDgWiNwVw2ZK1PMgSZGYHsiIvcA/edit?usp=sharing) provides an overview of the initiative.
+An open network for compute infrastructure can help meet the growing demand for compute, while keeping markets competitive. A draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself. 
 
 If you want to join the initiative, please fill out this [form](https://tally.so/r/nrokA2).
 
@@ -14,9 +12,9 @@ If you want to join the initiative, please fill out this [form](https://tally.so
 
 ## Anchor for this Program 
 
-Tanvi Lall [tanvi@peopleplus.ai]
+Tanvi Lall [tanvi@peopleplus.ai] and Swaroop [swaroop@peopleplus.ai]
 
-Team: Dr. Pramod Varma, Dr. Santashil Palchaudhuri, Tanuj Bhojwani
+Team: Dr. Pramod Varma, Tanuj Bhojwani, Dr. Santashil Palchaudhuri, Santosh Rao, Manu Awasthi, Shiva RV, Shonit Sawant, Sanjay Chopra, Prassanna, Mihir Gosavi.
 
 Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
@@ -40,15 +38,10 @@ We are looking for enthusiastic volunteers who can own pieces of this design puz
 ## Problem Statement/ Hypothesis
 
 Our hypothesis is two fold:
-
 1. There is a need for a network, where consumers can discover heterogeneous compute providers, allowing provisioning and usage via standards-based interfaces, thereby democratising access to cloud computing infrastructure.
 2. There is a need for a financial incentive structure built around encouraging new people to (1) come invest in this compute and (2) to use the compute.
 
-## We would love your feedback and suggestions, use [Discussions](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/discussions) 
-
-Question 1: What do you like out of this proposal? And what do you wish to see? 
-
-Question 2: What efforts can we undertake from a market-maker and policy perspective to accelerate and pilot this program? 
-
-Question 3: What are the concrete steps that we can to approach this globally? From the get go, how do we make this global initiative? Who are the global partners we can collaborate with?
-  
+## Project Documents 
+1. Concept paper
+2. Quick reads: Overview of the project in [powerpoint format](https://docs.google.com/presentation/d/1F_PxNP_i9zBYRaAdZDgWiNwVw2ZK1PMgSZGYHsiIvcA/edit?usp=sharing) provides an overview of the initiative
+3. Q1 2024 [update](https://docs.google.com/document/d/1Rd7FaAIqV035S_ix2a-h04eH58CfLQ9S23LRx_kFmdQ/edit?usp=sharing)
