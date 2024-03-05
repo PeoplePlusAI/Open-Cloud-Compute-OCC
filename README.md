@@ -14,7 +14,7 @@ If you want to join the initiative, please fill out this [form](https://tally.so
 
 Tanvi Lall [tanvi@peopleplus.ai] and Swaroop [swaroop@peopleplus.ai]
 
-The list of the contributing team can be found [here](https://docs.google.com/spreadsheets/d/1LEJOj3ovStBg-kRrocvS1Rm8Rmdo42YMmIZPhY90XSU/edit?usp=sharing).
+The contributing team list can be found [here](https://docs.google.com/spreadsheets/d/1LEJOj3ovStBg-kRrocvS1Rm8Rmdo42YMmIZPhY90XSU/edit?usp=sharing).
 
 Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
