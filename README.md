@@ -10,11 +10,11 @@ If you want to join the initiative, please fill out this [form](https://tally.so
 
 ![OCC-Adarsh](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/4f5021fe-b233-4281-ba77-bfacd001d8b3)
 
-## Anchor for this Program 
+## Anchors for this Program 
 
 Tanvi Lall [tanvi@peopleplus.ai] and Swaroop [swaroop@peopleplus.ai]
 
-Team: Dr. Pramod Varma, Tanuj Bhojwani, Dr. Santashil Palchaudhuri, Santosh Rao, Manu Awasthi, Shiva RV, Shonit Sawant, Sanjay Chopra, Prassanna, Mihir Gosavi.
+The list of the contributing team can be found [here](https://docs.google.com/spreadsheets/d/1LEJOj3ovStBg-kRrocvS1Rm8Rmdo42YMmIZPhY90XSU/edit?usp=sharing).
 
 Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
 
