@@ -12,7 +12,7 @@ An open network for compute infrastructure can help meet the growing demand for 
 
 Tanvi Lall [tanvi@peopleplus.ai] and Swaroop [swaroop@peopleplus.ai]
 
-Learn more about OCC at [here](https://peopleplus.ai/occ).
+Learn more about OCC [here](https://peopleplus.ai/occ).
 
 ## Collective Hope/ Dream
 We live in a world of increasing compute demand. The global cloud compute market is estimated at $500 billion and will be $1.5 trillion by 2030. Currently, much of the compute needs for businesses and startups are met by a handful of large cloud providers. Many fields and applications require significant computing power including AI, scientific research, finance among others and the need for expanded capacity is only growing. The objective of this paper is to brainstorm the creation of an open and decentralised computing network and take a DPI approach to unlocking access to compute-at-scale. 
