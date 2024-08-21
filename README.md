@@ -6,17 +6,13 @@
 
 An open network for compute infrastructure can help meet the growing demand for compute, while keeping markets competitive. A draft of the [Concept Paper](https://docs.google.com/document/d/1ZZd3d8CDu4qcZlrr_b3WW9QGVO-IPl2Ztph_8iQKlkc/edit?usp=sharing) is available. Please feel free to add comments on the Google Doc itself. 
 
-If you want to join the initiative, please fill out this [form](https://coda.io/form/Volunteer-with-Us_dU44lQvPaxK)
-
 ![OCC-Adarsh](https://github.com/PeoplePlusAI/Open-Cloud-Compute-OCC/assets/143959009/4f5021fe-b233-4281-ba77-bfacd001d8b3)
 
 ## Anchors for this Program 
 
 Tanvi Lall [tanvi@peopleplus.ai] and Swaroop [swaroop@peopleplus.ai]
 
-The contributing team list can be found [here](https://docs.google.com/spreadsheets/d/1LEJOj3ovStBg-kRrocvS1Rm8Rmdo42YMmIZPhY90XSU/edit?usp=sharing).
-
-Learn more about other [people+ai](https://peopleplus.ai/) initiatives.
+Learn more about OCC at [here](https://peopleplus.ai/occ).
 
 ## Collective Hope/ Dream
 We live in a world of increasing compute demand. The global cloud compute market is estimated at $500 billion and will be $1.5 trillion by 2030. Currently, much of the compute needs for businesses and startups are met by a handful of large cloud providers. Many fields and applications require significant computing power including AI, scientific research, finance among others and the need for expanded capacity is only growing. The objective of this paper is to brainstorm the creation of an open and decentralised computing network and take a DPI approach to unlocking access to compute-at-scale. 
